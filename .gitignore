@@ -1,0 +1,16 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# Composer / Laravel
+vendor/
+.env
+storage/
+public/storage
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
